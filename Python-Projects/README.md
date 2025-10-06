@@ -57,7 +57,7 @@ Converted phone number: 555-438-3663
 ---
 
 ## 🧑‍💻 Author
-**Jaime Silva Franco**  
+**Jaime Silva**  
 📍 Franklin College – Programming Fundamentals  
 📆 2025  
 
