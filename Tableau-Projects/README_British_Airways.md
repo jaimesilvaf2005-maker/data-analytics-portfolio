@@ -25,7 +25,7 @@ It was designed as part of a data visualization portfolio to demonstrate storyte
 👉 [**View on Tableau Public**](https://public.tableau.com/app/profile/jaime.silva8292/viz/BritishAirways_17601299289670/Dashboard1)
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](images/preview.png)
+![Dashboard Preview] (British Airways.jpg)
 
 ---
 *Created by [Jaime Silva](https://public.tableau.com/app/profile/jaime.silva8292)*  
